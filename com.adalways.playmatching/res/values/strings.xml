@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Play Matching</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6349721350485663/8876015238</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-6349721350485663/8578624037</string>
+    <string name="banner_ad_unit_game_id">ca-app-pub-6349721350485663/6723869238</string>
+</resources>
